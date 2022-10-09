@@ -7,7 +7,7 @@ import {useApiContract} from "react-moralis";
 import {getFloorBiddingAddress} from "../../../utils/addressHelpers";
 import floorBiddingAbi from "../../../config/abi/floorBidding.json";
 import {BigNumber} from "ethers";
-import Moralis from "moralis";
+import Moralis from "moralis-v1";
 
 const FloorBiddingGameCard = () => {
     const chainId = 97;

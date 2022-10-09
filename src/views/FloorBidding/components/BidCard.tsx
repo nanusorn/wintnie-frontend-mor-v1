@@ -23,12 +23,12 @@ import {useGetTestOwner} from "../hooks/useGetTestOwner";
 import {getFloorBiddingAddress, getWalletAddress} from "../../../utils/addressHelpers";
 import floorBiddingAbi from "../../../config/abi/floorBidding.json";
 import walletAbi from "../../../config/abi/wallet.json";
-import Moralis from "moralis";
 import {ToastContainer} from "../../../components/Toast";
 import {sample} from "lodash";
 import {useBiddingStatus} from "../hooks/useBiddingStatus";
 import {useBidHistory} from "../hooks/useBidHistory";
 import {useMoralis, useMoralisQuery} from "react-moralis";
+import Moralis from "moralis-v1";
 
 const Grid = styled.div`
   display: grid;
