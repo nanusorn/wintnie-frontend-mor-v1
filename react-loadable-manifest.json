@@ -1,0 +1,100 @@
+{
+  "../../node_modules/@web3-react/walletconnect-connector/dist/walletconnect-connector.esm.js -> @walletconnect/web3-provider": {
+    "id": "../../node_modules/@web3-react/walletconnect-connector/dist/walletconnect-connector.esm.js -> @walletconnect/web3-provider",
+    "files": []
+  },
+  "../../node_modules/@web3-react/walletlink-connector/dist/walletlink-connector.esm.js -> walletlink": {
+    "id": "../../node_modules/@web3-react/walletlink-connector/dist/walletlink-connector.esm.js -> walletlink",
+    "files": [
+      "static/chunks/node_modules_walletlink_dist_index_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @toruslabs/openlogin-ed25519": {
+    "id": "../../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @toruslabs/openlogin-ed25519",
+    "files": [
+      "static/chunks/node_modules_toruslabs_openlogin-ed25519_dist_openloginEd25519_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/ethereum-provider": {
+    "id": "../../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/ethereum-provider",
+    "files": [
+      "static/chunks/node_modules_web3auth_ethereum-provider_dist_ethereumProvider_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/solana-provider": {
+    "id": "../../node_modules/@web3auth/openlogin-adapter/dist/openloginAdapter.esm.js -> @web3auth/solana-provider",
+    "files": [
+      "static/chunks/node_modules_web3auth_solana-provider_dist_solanaProvider_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/metamask-adapter": {
+    "id": "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/metamask-adapter",
+    "files": [
+      "static/chunks/node_modules_web3auth_metamask-adapter_dist_metamaskAdapter_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/openlogin-adapter": {
+    "id": "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/openlogin-adapter",
+    "files": [
+      "static/chunks/node_modules_web3auth_openlogin-adapter_dist_openloginAdapter_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/phantom-adapter": {
+    "id": "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/phantom-adapter",
+    "files": [
+      "static/chunks/node_modules_web3auth_phantom-adapter_dist_phantomAdapter_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-evm-adapter": {
+    "id": "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-evm-adapter",
+    "files": [
+      "static/chunks/node_modules_web3auth_torus-evm-adapter_dist_torusEvmAdapter_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-solana-adapter": {
+    "id": "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/torus-solana-adapter",
+    "files": [
+      "static/chunks/node_modules_web3auth_torus-solana-adapter_dist_torusSolanaAdapter_esm_js.js"
+    ]
+  },
+  "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/wallet-connect-v1-adapter": {
+    "id": "../../node_modules/@web3auth/web3auth/dist/web3auth.esm.js -> @web3auth/wallet-connect-v1-adapter",
+    "files": [
+      "static/chunks/node_modules_web3auth_wallet-connect-v1-adapter_dist_walletConnectV1Adapter_esm_js.js"
+    ]
+  },
+  "../components/EasterEgg/EasterEgg.tsx -> @pancakeswap/uikit": {
+    "id": "../components/EasterEgg/EasterEgg.tsx -> @pancakeswap/uikit",
+    "files": []
+  },
+  "../components/SubgraphHealthIndicator/FixedSubgraphHealthIndicator.tsx -> components/SubgraphHealthIndicator": {
+    "id": "../components/SubgraphHealthIndicator/FixedSubgraphHealthIndicator.tsx -> components/SubgraphHealthIndicator",
+    "files": [
+      "static/chunks/src_components_SubgraphHealthIndicator_index_tsx.js"
+    ]
+  },
+  "../hooks/useFetchListCallback.ts -> ../utils/getTokenList": {
+    "id": "../hooks/useFetchListCallback.ts -> ../utils/getTokenList",
+    "files": [
+      "static/chunks/src_utils_getTokenList_ts.js"
+    ]
+  },
+  "../utils/web3React.ts -> @blocto/blocto-connector": {
+    "id": "../utils/web3React.ts -> @blocto/blocto-connector",
+    "files": [
+      "static/chunks/node_modules_blocto_blocto-connector_dist_blocto-connector_esm_js.js"
+    ]
+  },
+  "../utils/web3React.ts -> @web3-react/walletlink-connector": {
+    "id": "../utils/web3React.ts -> @web3-react/walletlink-connector",
+    "files": [
+      "static/chunks/node_modules_web3-react_walletlink-connector_dist_walletlink-connector_esm_js.js"
+    ]
+  },
+  "_app.tsx -> components/EasterEgg": {
+    "id": "_app.tsx -> components/EasterEgg",
+    "files": [
+      "static/chunks/src_components_EasterEgg_index_ts.js"
+    ]
+  }
+}
